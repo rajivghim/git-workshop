@@ -1,0 +1,7 @@
+This is a git and github workshop.
+
+---
+contents:
+1.Git add
+2.git commit
+3.Git push
