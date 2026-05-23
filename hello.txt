@@ -1,6 +1,4 @@
 This is a git and github workshop.
-bicdsf
-sfgbueygreg
 ---
 contents:
 1.Git add
